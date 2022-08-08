@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Lucas Sechirolli and my nickname is "lucazed19"! ![avatar](./images/octacat.png)
+### My name is Lucas Sechirolli and my nickname is "lucazed19"! <img src="./images/octacat.png" height="150">
 
 
 ## Sobre mim 🎓
