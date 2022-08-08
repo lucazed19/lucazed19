@@ -1,6 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Lucas Sechirolli and my nickname is "lucazed19"!
-[avatar](./images/octacat)
+### My name is Lucas Sechirolli and my nickname is "lucazed19"! [avatar](./images/octacat.png)
 
 
 ## Sobre mim 🎓
@@ -9,7 +8,7 @@
 - Estou cursando Ciências da Computação no Centro Universitário Barão de Mauá.
 - Meus Hobbies são jogar videogame e assistir animes/séries.
 
-### Contatos 📱
+## Contatos 📱
 <a href="https://instagram.com/lucazed_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## Ferramentas e Tecnologias 🖥️
