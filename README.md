@@ -4,7 +4,7 @@
 
 ## Sobre mim 🎓
 - Tenho 18 anos, moro no Brasil e curto tecnologia. 
-- Atualmente estou focado mais em desenvolvimento front-end.
+- Atualmente estou focado em aprender mais sobre o back-end.
 - Estou cursando Ciências da Computação no Centro Universitário Barão de Mauá.
 - Meus Hobbies são jogar videogame e assistir animes/séries.
 
