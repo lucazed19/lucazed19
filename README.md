@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/lucas-eduardo-sechirolli-da-silva-423767236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Currículo 📝
-<a href="https://drive.google.com/file/d/1QVdKymma8JGwqf2p3p7FhqKL4RnwNgku/view" target="_blank"><img src="./images/cv.png" width="70"></a>
+<a href="https://drive.google.com/file/d/1S3k6y7Fd5WIYBEJNv2IGMA1COvxV265t/view" target="_blank"><img src="./images/cv.png" width="70"></a>
 
 
 
