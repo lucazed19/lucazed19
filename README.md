@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my Github profile. <img align="right" style="margin-top:-20px" src="./images/octacat.png" height="400">
+# 👋 Hello! Welcome to my Github profile.
 ## My name is Lucas Sechirolli and my nickname is "lucazed19"! 
 
 
